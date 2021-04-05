@@ -89,26 +89,13 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "De hecho, se seca bien después de las cápsulas. En teoría, esto es necesario para que el agua reemplace a los alimentos. Por ejemplo, comencé a beber agua con mucha más frecuencia, consumiendo unos tres litros al día. Poco a poco, pero el peso desaparece .."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Ana Pankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
-      rating : "three" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Gektor Sucso"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
-      rating : "five" # rating star, one to five
+
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Sí, sí, ahora tengo más ganas de beber agua, literalmente en litros. Esto todavía llena el estómago, pero no con todo tipo de papas fritas y bollos. Entonces la grasa deja de depositarse, la figura vuelve a la normalidad."
       rating : "four" # rating star, one to five
