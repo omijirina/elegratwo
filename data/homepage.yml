@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Hoy en día, los medicamentos para bajar de peso se perciben como una parte absolutamente integral de nuestra vida."
-  content : "¡La droga es una acción compleja y poderosa! Asesino del apetito! Da excelentes resultados de larga duración."
+  title : "Protegiendo nuestra calidad - protegiendo su salud"
+  content : "El proceso de mejora continua del producto es un sello distintivo de la empresa."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Este producto está elaborado únicamente con ingredientes naturales y no incluye aditivos químicos como la sibutramina. En la producción, se utilizan extractos y extractos de plantas."
+  content : "El medicamento actual, sin lugar a dudas, es el producto de pérdida de peso más seguro y de mayor calidad del mundo."
   image : "images/about.png"
 
 
@@ -52,7 +52,7 @@ material:
 advantage:
   enable : true
   title : "Beneficios de usar nuestro producto"
-  subtitle : "La herramienta tiene una fórmula reforzada que le permite hacer frente a sus tareas de manera más rápida y eficiente que sus contrapartes en el mercado de la pérdida de peso."
+  subtitle : "Recomienda encarecidamente a cada cliente que lleve un diario de pérdida de peso antes de tomarlo. Para hacer esto, debe corregir y anotar su peso original. Mide las medidas de cintura y caderas y comprueba estos indicadores cada semana durante toda la cita."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
